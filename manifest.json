@@ -1,11 +1,11 @@
 {
     "manifest_version": 2,
     "name": "NuTake",
-    "description": "Add a hyperlink to package pages on nuget.org to make it easier to download the .Nupack package file.",
-    "version": "0.1",
+    "description": "Add a hyperlink to package pages on nuget.org to make it easier to download the .nupkg file.",
+    "version": "0.1.2",
     "content_scripts": [
         {
-              "matches": ["*://nuget.org/packages/*"],
+              "matches": ["*://*.nuget.org/packages/*"],
               "js": ["contrib/jquery-1.9.1.min.js", "lib/nutake.js"],
               "run_at": "document_end"
         }

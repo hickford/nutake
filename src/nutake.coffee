@@ -7,7 +7,7 @@ download_url = abuse_url.replace("/packages/","/api/v2/package/").replace("/Repo
 badge = $(".nuget-badge")
 hyperlink = $("<a>", {href: download_url}).append("<b>Download</b> .nupkg file.")
 
-addendum = $('<p>').append("Or ").append(hyperlink).append(" To open this file, rename have extension <tt>.zip</tt>")
+addendum = $('<p>').append("Or ").append(hyperlink).append(" To open this file, rename to have extension <tt>.zip</tt>")
 
 addendum.insertAfter(badge)
 
