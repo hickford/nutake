@@ -8,6 +8,12 @@ How to install
 
 From the Google Chrome web store at <https://chrome.google.com/webstore/detail/nutake/ibhhbcaipjilldjkhhblhgdedjgoecap?hl=en&gl=GB>
 
+Usage
+-----
+
+1. Browse to a NuGet package page, eg. http://www.nuget.org/packages/Newtonsoft.Json/4.5.2
+2. Follow the 'Download .nupkg file' link
+
 How to build
 ----------
 
