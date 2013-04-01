@@ -1,4 +1,5 @@
-abuse_url = $("[title='Report Abuse']")[0].href
+abuse_url = $("[href$='ReportAbuse']")[0].href
+
 # https://nuget.org/packages/Microsoft.Bcl.Async/1.0.14-rc/ReportAbuse
 
 download_url = abuse_url.replace("/packages/","/api/v2/package/").replace("/ReportAbuse","")
