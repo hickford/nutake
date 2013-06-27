@@ -14,6 +14,12 @@ Usage
 1. Browse to a NuGet package page, eg. http://www.nuget.org/packages/Newtonsoft.Json/4.5.2
 2. Follow the download link, eg. 'Download Newtonsoft.Json-4.5.2.zip'
 
+Usage
+-----
+
+1. Browse to a NuGet package page, eg. http://www.nuget.org/packages/Newtonsoft.Json/4.5.2
+2. Follow the 'Download .nupkg file' link
+
 How to build
 ----------
 

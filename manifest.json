@@ -6,7 +6,7 @@
     "content_scripts": [
         {
               "matches": ["*://*.nuget.org/packages/*"],
-              "js": ["contrib/jquery-1.9.1.min.js", "lib/nutake.js"],
+              "js": ["contrib/jquery-2.0.2.min.js", "lib/nutake.js"],
               "run_at": "document_end"
         }
     ]
