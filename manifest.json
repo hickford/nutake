@@ -1,8 +1,8 @@
 {
     "manifest_version": 2,
     "name": "NuTake",
-    "description": "Add a hyperlink to package pages on nuget.org to make it easier to download the .nupkg file.",
-    "version": "0.1.2",
+    "description": "Add 'download zip' links to package pages on the Nuget.org website.",
+    "version": "0.2.0",
     "content_scripts": [
         {
               "matches": ["*://*.nuget.org/packages/*"],
