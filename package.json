@@ -18,6 +18,6 @@
     "node": "0.8 - 0.10"
   },
   "devDependencies": {
-    "iced-coffee-script": ">=1.4.0c"
+    "coffee-script": "*"
   }
 }
