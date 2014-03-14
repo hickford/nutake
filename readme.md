@@ -17,6 +17,8 @@ Usage
 How to build
 ----------
 
+[![Build Status](https://travis-ci.org/matt-hickford/nutake.png)](https://travis-ci.org/matt-hickford/nutake)
+
 Install [Nodejs](http://nodejs.org)
 
     npm install -g coffee-script
