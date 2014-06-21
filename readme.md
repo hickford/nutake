@@ -17,7 +17,7 @@ Usage
 How to build
 ----------
 
-[![Build Status](https://travis-ci.org/colonelpanic/nutake.png)](https://travis-ci.org/colonelpanic/nutake)
+[![Build Status](https://travis-ci.org/hickford/nutake.png)](https://travis-ci.org/hickford/nutake)
 
 Install [Nodejs](http://nodejs.org)
 
