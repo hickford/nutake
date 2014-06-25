@@ -4,7 +4,7 @@
   "description": "A Chrome browser extension that adds 'download zip' links to package pages on the NuGet.org website.",
   "repository": {
     "type": "git",
-    "url": "https://github.com/matt-hickford/nutake.git"
+    "url": "https://github.com/hickford/nutake.git"
   },
   "keywords": [
     "nuget"
@@ -12,7 +12,7 @@
   "scripts": {
     "prepublish": "coffee --compile --output lib src"
   },
-  "author": "Matt Hickford <matt.hickford@gmail.com> (http://matt-hickford.github.com/)",
+  "author": "Matt Hickford <matt.hickford@gmail.com> (http://hickford.github.io/)",
   "readmeFilename": "readme.md",
   "engines": {
     "node": "0.8 - 0.10"
