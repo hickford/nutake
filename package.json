@@ -12,7 +12,6 @@
   "scripts": {
     "prepublish": "coffee --compile --output lib src"
   },
-  "author": "Matt Hickford <matt.hickford@gmail.com> (http://hickford.github.io/)",
   "readmeFilename": "readme.md",
   "engines": {
     "node": "0.8 - 0.10"
