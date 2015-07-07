@@ -10,6 +10,3 @@ badge = $(".nuget-badge")
 hyperlink = $("<a>", {href: download_url, download: download_name}).append("<b>Download</b> #{download_name}")
 addendum = $('<p>').append("Or ").append(hyperlink)
 addendum.insertAfter(badge)
-
-hyperlink2 = $("<a>", {href: download_url}).append("Download .nupkg")
-$("[href$='/Download']").replaceWith(hyperlink2)
